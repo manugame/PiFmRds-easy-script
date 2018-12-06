@@ -9,6 +9,5 @@ make clean
 make
 
 #install PiFmRds easy script
-git clone https://github.com/manugame/PiFmRds-easy-script.git
-cd PiFmRds-easy-script
+wget https://www.dropbox.com/s/zq7exy289gn5w7g/start.sh
 sudo sh start.sh
